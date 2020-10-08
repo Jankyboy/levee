@@ -26,7 +26,7 @@
     "wreck": "^14.2.0"
   },
   "dependencies": {
-    "CBuffer": "^2.0.0",
+    "CBuffer": "^2.1.0",
     "hoek": "^6.1.3"
   },
   "repository": {
